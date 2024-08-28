@@ -1,1 +1,1 @@
-BURADA JAVASCRİPT ÇALIŞMALARIMI, BÖYLELİKLE JAVASCRİPT ÖĞRENME YOLCULUĞUMA TANIK OLUYORSUNUZ.KODLARDA BOL AÇIKLAMALAR BULUNUYOR BÖYLELİKLE NEYİN NE OLDUĞUNU KAVRAYABİLİR KODLARINIZDA DENEYEBİLİRSİNİZ.
+JavaScript çalışmalarımı burada paylaşıyorum. Bu şekilde JavaScript öğrenme yolculuğuma tanık olabilirsiniz. Kodlarda bol açıklama bulunuyor, böylece neyin ne olduğunu kavrayabilir ve kodlarınızda bu açıklamalarla deneyebilirsiniz.
